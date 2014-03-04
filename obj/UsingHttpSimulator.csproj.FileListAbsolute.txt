@@ -1,0 +1,7 @@
+C:\Documents and Settings\ferron\My Documents\Visual Studio 2005\Projects\UsingHttpSimulator\UsingHttpSimulator\bin\UsingHttpSimulator.dll
+C:\Documents and Settings\ferron\My Documents\Visual Studio 2005\Projects\UsingHttpSimulator\UsingHttpSimulator\bin\UsingHttpSimulator.pdb
+C:\Documents and Settings\ferron\My Documents\Visual Studio 2005\Projects\UsingHttpSimulator\UsingHttpSimulator\bin\nunit.framework.dll
+C:\Documents and Settings\ferron\My Documents\Visual Studio 2005\Projects\UsingHttpSimulator\UsingHttpSimulator\bin\nunit.framework.xml
+C:\Documents and Settings\ferron\My Documents\Visual Studio 2005\Projects\UsingHttpSimulator\UsingHttpSimulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ferron\My Documents\Visual Studio 2005\Projects\UsingHttpSimulator\UsingHttpSimulator\obj\Debug\UsingHttpSimulator.dll
+C:\Documents and Settings\ferron\My Documents\Visual Studio 2005\Projects\UsingHttpSimulator\UsingHttpSimulator\obj\Debug\UsingHttpSimulator.pdb
